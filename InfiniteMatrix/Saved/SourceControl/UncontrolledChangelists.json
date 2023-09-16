@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Health_Bar.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/GM_Tutorial.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Blueprints/NewGameMode.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Blueprints/NewHUD.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score_UI.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Material.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/02_-_Default.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/03_-_Default.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_head.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Glow.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Glow_2.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Glow_3.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Shake.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject-20230914T021301Z-001/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Star.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/kaiyaok2/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
+			]
+		}
+	]
+}
